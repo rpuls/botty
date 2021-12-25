@@ -9,8 +9,7 @@
 git clone https://github.com/aeon0/botty.git
 cd botty
 conda env create environment.yml
-conda activate botty
-python src/main.py
+conda activate botty && python src/main.py
 ```
 Important info for Powershell users:
 ```bash
